@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: jonathansouzanotfound
+---
+testFramework: junit
+sourceLanguage: java
